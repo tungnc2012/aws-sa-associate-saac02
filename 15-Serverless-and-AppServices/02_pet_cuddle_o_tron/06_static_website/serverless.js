@@ -1,6 +1,6 @@
 
 
-var API_ENDPOINT = 'REPLACE_WITH_YOUR_ENDPONT_ADDRESS/prod/petcuddleotron';
+var API_ENDPOINT = 'https://juibiq92t5.execute-api.us-east-1.amazonaws.com/Production/serverlesslab';
 // It should look something like this when replaced....
 // https://somethingsomething.execute-api.us-east-1.amazonaws.com/prod/petcuddleotron
 
